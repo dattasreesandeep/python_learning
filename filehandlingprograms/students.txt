@@ -1,0 +1,3 @@
+sandeep,07,100
+sushanth,06,10
+nikhil,04,100
