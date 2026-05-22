@@ -2,5 +2,3 @@
 
 This repository contains my daily coding and development learning journey.
 
-## Topics
-- Python
